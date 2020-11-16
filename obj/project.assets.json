@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABV\\source\\repos\\Kino projekt\\Kino projekt.csproj",
+      "projectUniqueName": "C:\\Users\\ABV\\Source\\Repos\\AntoniBV\\Kino_projekt\\Kino projekt.csproj",
       "projectName": "Kino projekt",
-      "projectPath": "C:\\Users\\ABV\\source\\repos\\Kino projekt\\Kino projekt.csproj",
+      "projectPath": "C:\\Users\\ABV\\Source\\Repos\\AntoniBV\\Kino_projekt\\Kino projekt.csproj",
       "packagesPath": "C:\\Users\\ABV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABV\\source\\repos\\Kino projekt\\obj\\",
+      "outputPath": "C:\\Users\\ABV\\Source\\Repos\\AntoniBV\\Kino_projekt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABV\\AppData\\Roaming\\NuGet\\NuGet.Config",

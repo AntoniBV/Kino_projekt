@@ -3,7 +3,7 @@
 namespace Kino_projekt
 {
     struct Pretplata
-    { //ovo je jos jedan test
+    {
         public string kupac;
         public int godina;
         public double uplata;
