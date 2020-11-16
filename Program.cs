@@ -3,7 +3,7 @@
 namespace Kino_projekt
 {
     struct Pretplata
-    { //test12345
+    { //test1234567
         public string kupac;
         public int godina;
         public double uplata;
