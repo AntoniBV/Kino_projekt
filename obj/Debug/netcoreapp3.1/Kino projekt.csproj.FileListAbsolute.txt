@@ -1,0 +1,13 @@
+C:\Users\ABV\source\repos\Kino projekt\obj\Debug\netcoreapp3.1\Kino projekt.csprojAssemblyReference.cache
+C:\Users\ABV\source\repos\Kino projekt\obj\Debug\netcoreapp3.1\Kino projekt.AssemblyInfoInputs.cache
+C:\Users\ABV\source\repos\Kino projekt\obj\Debug\netcoreapp3.1\Kino projekt.AssemblyInfo.cs
+C:\Users\ABV\source\repos\Kino projekt\obj\Debug\netcoreapp3.1\Kino projekt.csproj.CoreCompileInputs.cache
+C:\Users\ABV\source\repos\Kino projekt\bin\Debug\netcoreapp3.1\Kino projekt.exe
+C:\Users\ABV\source\repos\Kino projekt\bin\Debug\netcoreapp3.1\Kino projekt.deps.json
+C:\Users\ABV\source\repos\Kino projekt\bin\Debug\netcoreapp3.1\Kino projekt.runtimeconfig.json
+C:\Users\ABV\source\repos\Kino projekt\bin\Debug\netcoreapp3.1\Kino projekt.runtimeconfig.dev.json
+C:\Users\ABV\source\repos\Kino projekt\bin\Debug\netcoreapp3.1\Kino projekt.dll
+C:\Users\ABV\source\repos\Kino projekt\bin\Debug\netcoreapp3.1\Kino projekt.pdb
+C:\Users\ABV\source\repos\Kino projekt\obj\Debug\netcoreapp3.1\Kino projekt.dll
+C:\Users\ABV\source\repos\Kino projekt\obj\Debug\netcoreapp3.1\Kino projekt.pdb
+C:\Users\ABV\source\repos\Kino projekt\obj\Debug\netcoreapp3.1\Kino projekt.genruntimeconfig.cache
